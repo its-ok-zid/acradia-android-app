@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "898879220332",
+    "project_id": "vehiclenotifications-a7003",
+    "storage_bucket": "vehiclenotifications-a7003.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898879220332:android:f52ce6f18f4c862a0b0649",
+        "android_client_info": {
+          "package_name": "com.demo.vehicleapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNax8sZbeDtgXpmWKoyNVaBlnz1uJpPWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898879220332:android:1f5dc1fb9b58acf10b0649",
+        "android_client_info": {
+          "package_name": "com.example.suzukiconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNax8sZbeDtgXpmWKoyNVaBlnz1uJpPWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
